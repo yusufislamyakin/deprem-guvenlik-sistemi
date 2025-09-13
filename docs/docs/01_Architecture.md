@@ -1,0 +1,1 @@
+sensör → Arduino → buzzer/röle.
