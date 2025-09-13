@@ -1,0 +1,1 @@
+# deprem-guvenlik-sistemi
